@@ -1,0 +1,6 @@
+{
+  "name": "Cadastro Ambiental Rural - CAR",
+  "description": "Portal institucional do Cadastro Ambiental Rural (CAR) com funcionalidades de consulta, envio, retificação e central do proprietário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
