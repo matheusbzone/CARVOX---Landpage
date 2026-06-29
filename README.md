@@ -43,7 +43,7 @@ Para realizar o teste e iniciar o atendimento com a Inteligência Artificial, ba
 
 - **Frontend:** React + TypeScript + Vite
 - **Estilização:** TailwindCSS + Framer Motion (para animações)
-- **Inteligência Artificial:** `@google/genai` (Gemini 2.0 Flash / Live API / Tool Calling)
+- **Inteligência Artificial:**
 - **Backend / API:** Vercel Serverless Functions (`/api`)
 - **Banco de Dados:** PostgreSQL hospedado no [Supabase](https://supabase.com) (Storage e Relational Data)
 - **Deploy:** Vercel
